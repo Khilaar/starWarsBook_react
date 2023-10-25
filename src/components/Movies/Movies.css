@@ -1,0 +1,21 @@
+.movieTitle {
+    border-style: solid;
+    border-width: 1px;
+    width: 25vw;
+    margin-bottom: 2px;
+    
+}
+
+.movieOpeningBrawl {
+    width: 25vw;
+    margin-top: 0;
+    outline: 1px solid;
+
+}
+
+.movieContainer {
+    display: flex;
+    border-style:groove;
+    width: fit-content;
+    border-width: 1px;
+}
